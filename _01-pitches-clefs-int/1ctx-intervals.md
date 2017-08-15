@@ -3,6 +3,22 @@ layout: page
 title: 1c Lesson - Identifying and Labeling Intervals
 ---
 
+## Class discussion
+
+intervals:
+- item 1
+- item 2
+  - sub item
+  - sub item 2
+- item 3
+
+Intervals are fun. 
+They great for music and other applications.
+Some *think* they are cool even.
+But **they** are wrong.
+
+## Further reading
+
 An *interval* is the distance between two pitches, usually measured as a number of steps on a scale.
 
 A *dyad* is a pair of pitches sounding together (in other words, a two-note chord). Since a dyad is defined by the interval between the two pitches, dyads are often simply called intervals.
