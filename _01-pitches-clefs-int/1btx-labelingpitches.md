@@ -3,6 +3,21 @@ layout: page
 title: 1b Lesson - Labeling Pitches
 ---
 
+## Class Discussion 
+
+Pitches:
+- item 1
+- item 2
+  - sub item
+  - sub item 2
+- item 3
+
+Class discussion about labeling pitches.
+Paragraph testing.
+Pitches in *italics*, **bold**.
+
+## Further Reading 
+
 ### The Keyboard ###
 
 The keyboard is great for helping you develop a visual, aural, and tactile understanding of music theory. On the illustration below, the *pitch-class* letter names are written on the keyboard. 
